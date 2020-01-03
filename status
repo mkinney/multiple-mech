@@ -1,0 +1,7 @@
+#!/bin/bash
+for d in `find ./instances -type d -depth 1`
+do
+  cd $d
+  mech status
+  cd -
+done

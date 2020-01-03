@@ -1,0 +1,10 @@
+#!/bin/bash
+for d in `find ./instances -type d -depth 1`
+do
+  cd $d
+  mech destroy -f &
+  cd -
+done
+
+# wait until the jobs are all done
+wait

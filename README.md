@@ -66,5 +66,5 @@ For a comparison with `vagrant` using the VMware Desktop plugin and using the `V
 
 Created the `Mechfile` in each instances directory by running a `mech init` command like this:
 
-    mech init bento/ubuntu-18.04
+    mech init bento/ubuntu-18.04 --name ubuntu18
 

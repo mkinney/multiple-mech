@@ -1,0 +1,6 @@
+{
+  "box": "bento/fedora-30",
+  "box_version": "201912.05.0",
+  "name": "fedora30",
+  "url": "https://vagrantcloud.com/bento/boxes/fedora-30/versions/201912.05.0/providers/vmware_desktop.box"
+}

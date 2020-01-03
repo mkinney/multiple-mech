@@ -1,0 +1,6 @@
+{
+  "box": "bento/debian-8",
+  "box_version": "201912.04.0",
+  "name": "debian8",
+  "url": "https://vagrantcloud.com/bento/boxes/debian-8/versions/201912.04.0/providers/vmware_desktop.box"
+}

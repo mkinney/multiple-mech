@@ -1,6 +1,6 @@
 {
   "box": "bento/centos-8",
   "box_version": "201912.04.0",
-  "name": null,
+  "name": "centos8",
   "url": "https://vagrantcloud.com/bento/boxes/centos-8/versions/201912.04.0/providers/vmware_desktop.box"
 }

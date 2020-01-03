@@ -57,6 +57,12 @@ Which is faster than not sending the `mech up` commands to the background:
     user	0m11.259s
     sys	0m2.116s
 
+For a comparison with `vagrant` using the VMware Desktop plugin and using the `Vagrantfile` in this directory and running `time vagrant up`:
+
+    real	1m55.257s
+    user	0m15.807s
+    sys	0m3.205s 
+
 
 Created the `Mechfile` in each instances directory by running a `mech init` command like this:
 

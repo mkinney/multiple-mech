@@ -1,0 +1,6 @@
+{
+  "box": "StefanScherer/windows_2019",
+  "box_version": "2019.11.15",
+  "name": "windows2019",
+  "url": "https://vagrantcloud.com/StefanScherer/boxes/windows_2019/versions/2019.11.15/providers/vmware_desktop.box"
+}

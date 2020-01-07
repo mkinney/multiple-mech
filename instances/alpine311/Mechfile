@@ -1,0 +1,6 @@
+{
+  "box": "mrlesmithjr/alpine311",
+  "box_version": "1578437753",
+  "name": "alpine311",
+  "url": "https://vagrantcloud.com/mrlesmithjr/boxes/alpine311/versions/1578437753/providers/vmware_desktop.box"
+}

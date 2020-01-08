@@ -1,0 +1,6 @@
+{
+  "box": "bento/ubuntu-19.10",
+  "box_version": "201912.04.0",
+  "name": "ubuntu19",
+  "url": "https://vagrantcloud.com/bento/boxes/ubuntu-19.10/versions/201912.04.0/providers/vmware_desktop.box"
+}

@@ -1,0 +1,6 @@
+{
+  "box": "mrlesmithjr/arch",
+  "box_version": "1561616456",
+  "name": "arch",
+  "url": "https://vagrantcloud.com/mrlesmithjr/boxes/arch/versions/1561616456/providers/vmware_desktop.box"
+}

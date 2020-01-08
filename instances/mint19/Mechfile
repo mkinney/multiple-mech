@@ -1,0 +1,6 @@
+{
+  "box": "mrlesmithjr/linuxmint-19.1",
+  "box_version": "1575487049",
+  "name": "mint19",
+  "url": "https://vagrantcloud.com/mrlesmithjr/boxes/linuxmint-19.1/versions/1575487049/providers/vmware_desktop.box"
+}

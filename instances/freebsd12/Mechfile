@@ -1,0 +1,6 @@
+{
+  "box": "bento/freebsd-12",
+  "box_version": "201912.20.0",
+  "name": "freebsd12",
+  "url": "https://vagrantcloud.com/bento/boxes/freebsd-12/versions/201912.20.0/providers/vmware_desktop.box"
+}
